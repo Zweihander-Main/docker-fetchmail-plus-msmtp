@@ -1,5 +1,7 @@
 # Fetchmail plus MSMTP
 
+**[MOVED](https://github.com/Zweihander-Main/docker/tree/master/fetchmail-plus-msmtp)**
+
 [cguenther/docker-fetchmail](https://github.com/cguentherTUChemnitz/docker-fetchmail) plus MSMTP. Particularly useful for auto-forwarding emails from email providers who don't have the functionality built in (ie AOL).
 
 ## Example configuration:
